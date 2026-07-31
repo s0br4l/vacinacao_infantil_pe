@@ -11,6 +11,14 @@ Plataforma de **Engenharia de Dados e Analytics** desenvolvida para o monitorame
 O projeto conta com um pipeline automatizado sob a **Arquitetura Medallion**, consumo e armazenamento performático em formato `.parquet`, interface geodashboard interativa em **Streamlit** com mapas coropléticos (Folium), e exposição de dados via **API REST (FastAPI)**.
 
 ---
+## 🌐 Aplicação On-line & Demonstração
+
+> **Acesse a aplicação ao vivo:** [🔗 Dashboard de Vigilância Vacinal Infantil - PE](https://vacinacaoinfantilpe-ajzqccn6ddgta9g2s8oe5v.streamlit.app/)
+
+![Demonstração do Geodashboard](assets/dashboard_preview.png)
+
+
+---
 
 ## 🏛️ Arquitetura da Solução (Pipeline Medallion)
 
