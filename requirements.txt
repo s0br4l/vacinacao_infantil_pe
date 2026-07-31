@@ -1,0 +1,9 @@
+streamlit
+pandas
+pyarrow
+requests
+folium
+streamlit-folium
+fastapi
+uvicorn
+duckdb
